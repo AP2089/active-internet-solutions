@@ -1,0 +1,22 @@
+{
+  "all": "Все",
+  "remove": "Удалить",
+  "cancel": "Отмена",
+  "orders.placeholder": "Введите ЖК / корпус / № квартиры / № паркинга",
+  "rubles": "руб.",
+  "frame": "корпус",
+  "flat": "кв.",
+  "apartment": "Квартира",
+  "parking": "Паркинг",
+  "year": "г.",
+  "room.flat": "комн. кв.",
+  "floor": "этаж",
+  "meter": "м",
+  "status.concession.entity": "Уступка от юр. лица",
+  "status.concession.user": "Уступка от физ. лица",
+  "status.booked": "Забронировано",
+  "status.sales": "Продано",
+  "delete.order": "Вы действительно хотите удалить заказ?",
+  "no.orders": "Нет заказов",
+  "remove.orders.success": "Заказы удалены"
+}

@@ -1,0 +1,97 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "price": "7 733 300",
+      "type": {
+        "name": "apartment",
+        "tooltip": "Подземная встроенно-пристроенная"
+      },
+      "name": "Чистое Небо",
+      "frame": "10",
+      "apartment": "1",
+      "year": "2022",
+      "status": "concession-entity",
+      "address": "Лен. область, Всеволожский район, д. Кудрово, ул. Столичная, д. 5, к. 1",
+      "date": "21/11/2020",
+      "info": {
+        "apartment_number": "62",
+        "square": "234.38",
+        "number_rooms": "1",
+        "floor": "7"
+      },
+      "image": {
+        "webp": "./images/01.webp",
+        "any": "./images/01.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "price": "7 733 300",
+      "type": null,
+      "name": "Зеленый квартал на Пулковских высотах",
+      "frame": "10",
+      "apartment": "2",
+      "year": "2022",
+      "status": "concession-user",
+      "address": "Комендантский пр., уч. 1 Каменка",
+      "date": "21/11/2020",
+      "info": {
+        "apartment_number": "65",
+        "square": "234.38",
+        "number_rooms": "2",
+        "floor": "3"
+      },
+      "image": {
+        "webp": "images/01.webp",
+        "any": "images/01.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "price": "800 300",
+      "type": {
+        "name": "parking",
+        "tooltip": "Подземная встроенно-пристроенная"
+      },
+      "name": "Зеленый квартал на Пулковских высотах",
+      "frame": "10",
+      "apartment": "2",
+      "year": "2022",
+      "status": "booked",
+      "address": "Ленинградская область, Всеволожский район, д. Кудрово, ул. Столичная, д. 5, к. 1",
+      "date": "21/11/2020",
+      "info": {
+        "parking_number": "№ 3-10-1 (ПИБ №68)",
+        "square": "15"
+      },
+      "image": {
+        "webp": "images/01.webp",
+        "any": "images/01.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "price": "800 300",
+      "type": {
+        "name": "parking",
+        "tooltip": "Подземная встроенно-пристроенная"
+      },
+      "name": "Зеленый квартал на Пулковских высотах",
+      "frame": "10",
+      "apartment": "3",
+      "year": "2022",
+      "status": "sales",
+      "address": "Лен. область, Всеволожский район, д. Кудрово, ул. Столичная, д. 5, к. 1",
+      "date": "21/11/2020",
+      "info": {
+        "parking_number": "№ 7-10-2 (ПИБ №68)",
+        "square": "15"
+      },
+      "image": {
+        "webp": "images/01.webp",
+        "any": "images/01.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+// pt sans
+@font-face {
+  font-family: 'PT Sans';
+  src: url('../fonts/pt-sans/PTSans-Italic.woff2') format('woff2'),
+       url('../fonts/pt-sans/PTSans-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PT Sans';
+  src: url('../fonts/pt-sans/PTSans-BoldItalic.woff2') format('woff2'),
+       url('../fonts/pt-sans/PTSans-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PT Sans';
+  src: url('../fonts/pt-sans/PTSans-Bold.woff2') format('woff2'),
+       url('../fonts/pt-sans/PTSans-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PT Sans';
+  src: url('../fonts/pt-sans/PTSans-Regular.woff2') format('woff2'),
+       url('../fonts/pt-sans/PTSans-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
